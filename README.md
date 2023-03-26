@@ -34,12 +34,12 @@ optional arguments:
 
 __Download Video file :__  
 
-![](video.png)
+![](gif/video.png)
 
-![](video.gif)
+![](gif/video.gif)
 
 __Download Audio file :__  
 
-![](mp3.png)
+![](gif/mp3.png)
 
-![](mp3.gif)
+![](gif/mp3.gif)
