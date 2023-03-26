@@ -36,10 +36,6 @@ __Download Video file :__
 
 ![](gif/video.png)
 
-![](gif/video.gif)
-
 __Download Audio file :__  
 
 ![](gif/mp3.png)
-
-![](gif/mp3.gif)
